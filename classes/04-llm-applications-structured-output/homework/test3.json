@@ -1,0 +1,82 @@
+[
+  {
+    "Text": "gg wp everyone, that was a close match",
+    "Label": "allowed"
+  },
+  {
+    "Text": "nice shot! that headshot was insane",
+    "Label": "allowed"
+  },
+  {
+    "Text": "can we group mid? need backup here",
+    "Label": "allowed"
+  },
+  {
+    "Text": "thanks for the heal, saved my life there",
+    "Label": "allowed"
+  },
+  {
+    "Text": "lets push bot lane together, we can take the tower",
+    "Label": "allowed"
+  },
+  {
+    "Text": "my bad, sorry for that mistake guys",
+    "Label": "allowed"
+  },
+  {
+    "Text": "enemy team is really good, we need better coordination",
+    "Label": "allowed"
+  },
+  {
+    "Text": "brb 2 min, need to grab some water",
+    "Label": "allowed"
+  },
+  {
+    "Text": "anyone want to queue for another match after this?",
+    "Label": "allowed"
+  },
+  {
+    "Text": "glhf everyone! lets have a good game",
+    "Label": "allowed"
+  },
+  {
+    "Text": "youre trash uninstall the game noob",
+    "Label": "filtered"
+  },
+  {
+    "Text": "kys you worthless piece of garbage",
+    "Label": "filtered"
+  },
+  {
+    "Text": "inting feeder report this idiot",
+    "Label": "filtered"
+  },
+  {
+    "Text": "stfu nobody wants to hear you talk",
+    "Label": "filtered"
+  },
+  {
+    "Text": "I hope you and your family die",
+    "Label": "filtered"
+  },
+  {
+    "Text": "youre so bad go back to bronze you bot",
+    "Label": "filtered"
+  },
+  {
+    "Text": "racial slur directing hate at another player",
+    "Label": "filtered"
+  },
+  {
+    "Text": "ez game you guys are terrible lmao",
+    "Label": "filtered"
+  },
+  {
+    "Text": "selling cheap skins and accounts visit realwebsite.com",
+    "Label": "filtered"
+  },
+  {
+    "Text": "join my discord for free hacks and cheats",
+    "Label": "filtered"
+  }
+]

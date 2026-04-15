@@ -1,0 +1,50 @@
+[
+  {
+    "Text": "Hi, I'm interested in purchasing your Enterprise plan for my team of 25 people. Could you provide information about volume discounts and what features are included? Also, do you offer a demo or trial period before we commit?",
+    "Label": "Sales and Pre-Sales"
+  },
+  {
+    "Text": "I'm considering switching from your Starter plan to the Professional tier. What's the price difference, and will I lose any of my current data during the migration? I'd also like to know if there are any setup fees.",
+    "Label": "Sales and Pre-Sales"
+  },
+  {
+    "Text": "We're a non-profit organization looking for software solutions. Do you offer any special pricing for non-profits? We need licenses for about 15 users and would love to schedule a call with your sales team.",
+    "Label": "Sales and Pre-Sales"
+  },
+  {
+    "Text": "I'm unable to log into my account. I've tried resetting my password twice but I'm not receiving the reset email. I've checked my spam folder as well. Can you help me regain access? My username is john.smith@company.com.",
+    "Label": "IT Support"
+  },
+  {
+    "Text": "Our team is experiencing issues with the mobile app. It keeps crashing whenever we try to upload files larger than 10MB. We're using Android version 13. Is this a known bug, and is there a workaround?",
+    "Label": "IT Support"
+  },
+  {
+    "Text": "The dashboard is loading very slowly for all users in our organization since yesterday. Pages that normally load in 2-3 seconds are now taking over 30 seconds. We've cleared our browser cache but the issue persists. Could there be a server problem?",
+    "Label": "IT Support"
+  },
+  {
+    "Text": "I ordered a laptop from your store two weeks ago (Order #45892) but received the wrong model. I ordered the 16GB RAM version but got the 8GB version instead. I'd like to return this and get the correct model shipped to me.",
+    "Label": "Returns and Exchanges"
+  },
+  {
+    "Text": "I purchased a defective wireless mouse last week. It stopped working after just three days of use. I have the receipt and original packaging. What's the process for getting a refund or replacement? The product is still under warranty.",
+    "Label": "Returns and Exchanges"
+  },
+  {
+    "Text": "I'd like to return an item I bought during your Black Friday sale. It's been 10 days since delivery, and the product doesn't meet my expectations. I understand there's a 30-day return window. How do I initiate the return, and will I get a full refund?",
+    "Label": "Returns and Exchanges"
+  },
+  {
+    "Text": "I haven't received my paycheck for this month yet, and it's already the 5th business day. Everyone else on my team has been paid. Could you please check with payroll to see what's causing the delay? My employee ID is EMP-7843.",
+    "Label": "Human Resources"
+  },
+  {
+    "Text": "I need to update my W-4 tax withholding information and add my newborn daughter as a dependent on my health insurance plan. Who should I contact in HR, and what documents do I need to provide?",
+    "Label": "Human Resources"
+  },
+  {
+    "Text": "I'm planning to take parental leave starting next month. Could you send me information about the company's parental leave policy, how to apply, and whether it affects my benefits? I'd also like to know about the process for transitioning my work responsibilities.",
+    "Label": "Human Resources"
+  }
+]
