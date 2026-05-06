@@ -1,0 +1,21 @@
+OWASP Top 10 for LLM Applications 
+
+- LLM10:2025 Unbounded Comsuption -> Denial of Wallet
+- 
+- LLM Input Proxy 
+- Throttling
+- Misinformation -> Not containing bad feedback and letting it go as good openai
+- https://genai.owasp.org/llmrisk/llm01-prompt-injection/
+
+https://genai.owasp.org/
+
+https://docs.langchain.com/oss/python/langgraph/quickstart.html
+
+Poison GPT
+
+MISTRAL -> GDPR compliant 
+
+Qween
+DeepSeek
+
+
